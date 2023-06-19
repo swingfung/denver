@@ -23,12 +23,14 @@
  { "name": "US", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/US.png" },
  { "name": "UN", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/UN.png" },
  { "name": "AppleLock", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/AppleLock.png" },
+ { "name": "Photos", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Photos.png" },
  { "name": "Apple_Fitness", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Apple_Fitness.png" },
  { "name": "Find", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Find.png" },
  { "name": "Game_Center", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Game_Center.png" },
  { "name": "Home", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Home.png" },
  { "name": "Podcasts", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Podcasts.png" },
  { "name": "Shortcuts", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Shortcuts.png" },
+ { "name": "AirDrop", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/AirDrop.png" },
  { "name": "Siri", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Siri.png" },
  { "name": "Final", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Final.png" },
  { "name": "Surge5", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Surge5.png" },
@@ -141,6 +143,7 @@
  { "name": "Yamaha", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Yamaha.png" },
  { "name": "Tesla", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Tesla.png" },
  { "name": "Punisher", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Punisher.png" },
+ { "name": "Harry-potter", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Harry-potter.png" },
  { "name": "Wan", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Wan.png" },
  { "name": "Sea", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Sea.png" },
  { "name": "Shell", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Shell.png" },
@@ -161,7 +164,6 @@
  { "name": "Spotify", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Spotify.png" },
  { "name": "Netease_Music", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Netease_Music.png" },
  { "name": "Netease_Music_Unlock", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Netease_Music_Unlock.png" },
- { "name": "Speedtest", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Speedtest.png" },
-
+ 
  ]
 }
