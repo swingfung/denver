@@ -317,6 +317,19 @@
  { "name": "UNIQLO", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/UNIQLO.png" },
  { "name": "Levi's", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Levi's.png" },
 
+ { "name": "Tsinghua_University", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Tsinghua_University.png" },
+ { "name": "Peking_University", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Peking_University.png" },
+ { "name": "Harvard_University", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Harvard_University.png" },
+ { "name": "California_Institute", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/California_Institute.png" },
+ { "name": "Columbia_University", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Columbia_University.png" },
+ { "name": "Cornell_University", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Cornell_University.png" },
+ { "name": "Duke_University", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Duke_University.png" },
+ { "name": "Imperial_College_London", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Imperial_College_London.png" },
+ { "name": "Johns_Hopkins_University's", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Johns_Hopkins_University's.png" },
+ { "name": "Michigan_Ann_Arbor", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Michigan_Ann_Arbor.png" },
+ { "name": "New_York_University", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/New_York_University.png" },
+
+
  { "name": "Porsche", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Porsche.png" },
  { "name": "Abarth", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Abarth.png" },
  { "name": "Rolls-Royce", "url": "https://raw.githubusercontent.com/swingfung/Denver/main/icons/Rolls-Royce.png" },
